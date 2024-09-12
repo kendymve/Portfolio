@@ -29,7 +29,7 @@
 .u-section-1 .u-image-1 {
   width: 210px;
   height: 210px;
-  background-image: url("images/IMG-20221121-WA0006.jpg");
+  background-image: url("images/DSC_6200.JPG");
   background-position: 50% 50%;
   margin: 96px auto 0 53px;
 }
@@ -80,7 +80,7 @@
   text-transform: uppercase;
   font-size: 1.125rem;
   width: 100%;
-  --radius: 10px;
+  --radius: 50px;
   font-weight: 400;
   padding: 16px 0 17px;
 }
@@ -192,10 +192,6 @@
     padding-right: 20px;
   }
 
-  .u-section-1 .u-text-1 {
-    font-size: 1.875rem;
-  }
-
   .u-section-1 .u-text-2 {
     font-size: 1rem;
   }
@@ -221,8 +217,8 @@
   }
 
   .u-section-1 .u-text-1 {
-    font-size: 1.5rem;
     margin-right: 0;
+    font-size: 2.25rem;
   }
 
   .u-section-1 .u-form-1 {
